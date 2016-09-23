@@ -2,4 +2,3 @@ Python script that predicts the flight of a flisbee given initial speed and angl
 
 Based off of MIT research paper.
 
-Thanks for looking!
